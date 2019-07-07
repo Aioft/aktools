@@ -13,5 +13,5 @@
   如果能做到这一点，那将是非常大的帮助<br>
   使用工具`labelImg`，将图片和`.xml`标记一起提交给我<br>
   标签和对应的材料可以在这里找到:https://github.com/graueneko/aktools/tree/master/src/assets/img/material<be>
-  标签列表放入`labelImg`目录下的`/lable`中可快速添加标签<br>
-  标签列表`待添加`
+  标签列表放入`labelImg`目录下的`/data/predefined_classes.txt`中可快速添加标签<br>
+  标签列表https://github.com/Luke-lujunxian/aktools/blob/auto-fillin/predefined_classes.txt
